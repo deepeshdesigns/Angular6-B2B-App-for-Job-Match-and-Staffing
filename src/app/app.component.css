@@ -1,0 +1,48 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0rem !important;
+}
+
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 0rem !important;
+}
+
+.div-img {
+    padding-left:4px !important;
+    padding-right:4px !important;
+    top:20%;
+
+}
+
+.img {
+    height:18%!important;
+}
+
+.margin-10{
+margin-left:5% !important;
+}
+
+.header-blue {
+    color:#00c2ff !important;
+}
+
+@media only screen and (max-width: 600px) {
+
+.padding-list {
+padding-left:5%;
+    }
+
+}
+
+
+@media only screen and (min-width: 600px) {
+
+    .padding-list {
+    padding-left:1%;
+        }
+
+    
+    }
+    
