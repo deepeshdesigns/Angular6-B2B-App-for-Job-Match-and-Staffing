@@ -1,6 +1,18 @@
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This project contains the source code for prototype of mobile based B2B app for labour resource management. 
+This app can be used as an interface between contract job seekers in labour market and companies look for temporary hires. 
+
+The front experience is a mobile view of how a particular labour, who is not very tech savvy, would get to see the details of a particular job when he picks a job from list of available jobs
+
+The application mimics calling a backend API containing available jobs based on search criteria such as :
+a. Daily rates
+b. Start date
+c. End dates
+
+Currently the front end only shares job search result page for a particular job a labour want to apply for / shows interest in but can be extrapolated with a listing page with list of jobs picked from the backend API
+
 
 ## Development server
 
