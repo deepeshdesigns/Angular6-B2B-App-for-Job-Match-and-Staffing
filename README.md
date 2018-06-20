@@ -1,5 +1,6 @@
 ## About the app
-#Angular 6 based B2B App to match on-demand workers with employers who are staffing firm customers 
+#Angular 6 based B2B App to match on-demand workers with employers who are staffing firm customers . This is the source code of the application. The production build can be found at 
+`https://github.com/deepeshdesigns/swjobs`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
