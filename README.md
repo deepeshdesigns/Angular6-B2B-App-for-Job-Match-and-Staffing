@@ -18,7 +18,7 @@ Currently the front end only shares job search result page for a particular job 
 You can experience the app at `https://deepeshdesigns.github.io/swjobs/`
 
 ## Frontend of the app
-![Screenshot](Frontend.jpg)
+![Screenshot](Frontend.JPG)
 
 
 ## Development server
